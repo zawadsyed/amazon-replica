@@ -1,0 +1,18 @@
+.header-nav {
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 140px;
+}
+
+.nav-link a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 32px;
+}
+
+.nav-link a:hover {
+    color: #ff9900;
+}
